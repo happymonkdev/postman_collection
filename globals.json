@@ -1,0 +1,19 @@
+{
+	"id": "f60c2ceb-c373-40db-88e0-48adca7803e6",
+	"values": [
+		{
+			"key": "basicAuth1",
+			"value": "c2FuamVldjp0cmFudG9y",
+			"enabled": true
+		},
+		{
+			"key": "basicAuth",
+			"value": "c2FuamVldjp0cmFudG9y",
+			"enabled": true
+		}
+	],
+	"name": "Quartz-environment Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2019-06-13T13:53:18.580Z",
+	"_postman_exported_using": "Postman/7.2.0"
+}
